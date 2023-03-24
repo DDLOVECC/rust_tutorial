@@ -1,0 +1,1 @@
+/home/duhongpeng/rust/rust_tutorial/second_rust_tutorial_area_work/target/debug/second_rust_tutorial_area_work: /home/duhongpeng/rust/rust_tutorial/second_rust_tutorial_area_work/src/main.rs
